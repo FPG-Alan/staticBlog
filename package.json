@@ -1,0 +1,17 @@
+{
+  "name": "staticblog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YY",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "handlebars": "^4.0.6",
+    "markdown-it": "^8.3.1",
+    "open": "0.0.5"
+  }
+}
